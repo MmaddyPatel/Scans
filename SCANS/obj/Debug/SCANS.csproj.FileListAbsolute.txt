@@ -1,0 +1,16 @@
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.exe.config
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.exe
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.pdb
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\bin\Debug\SysPeformance.dll
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\bin\Debug\SysPeformance.pdb
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\obj\Debug\SCANS.csprojResolveAssemblyReference.cache
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.exe
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.pdb
+D:\Projects\SQLProjects\Win\SCANS\SCANS\bin\Debug\SCANS.exe.config
+D:\Projects\SQLProjects\Win\SCANS\SCANS\bin\Debug\SCANS.exe
+D:\Projects\SQLProjects\Win\SCANS\SCANS\bin\Debug\SCANS.pdb
+D:\Projects\SQLProjects\Win\SCANS\SCANS\bin\Debug\SysPeformance.dll
+D:\Projects\SQLProjects\Win\SCANS\SCANS\bin\Debug\SysPeformance.pdb
+D:\Projects\SQLProjects\Win\SCANS\SCANS\obj\Debug\SCANS.csprojResolveAssemblyReference.cache
+D:\Projects\SQLProjects\Win\SCANS\SCANS\obj\Debug\SCANS.exe
+D:\Projects\SQLProjects\Win\SCANS\SCANS\obj\Debug\SCANS.pdb

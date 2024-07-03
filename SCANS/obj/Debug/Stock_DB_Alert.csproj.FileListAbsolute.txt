@@ -1,0 +1,17 @@
+E:\projects\win\Stock_DB_Alert\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.exe.config
+E:\projects\win\Stock_DB_Alert\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.exe
+E:\projects\win\Stock_DB_Alert\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.pdb
+E:\projects\win\Stock_DB_Alert\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.exe
+E:\projects\win\Stock_DB_Alert\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.pdb
+E:\Projects\Win\Stock_DB_Alert\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.csprojResolveAssemblyReference.cache
+D:\Projects\SQLProjects\Win\Stock_DB_Alert\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.exe.config
+D:\Projects\SQLProjects\Win\Stock_DB_Alert\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.exe
+D:\Projects\SQLProjects\Win\Stock_DB_Alert\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.pdb
+D:\Projects\SQLProjects\Win\Stock_DB_Alert\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.exe
+D:\Projects\SQLProjects\Win\Stock_DB_Alert\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.pdb
+D:\Projects\SQLProjects\Win\Stock_DB_Alert\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.csprojResolveAssemblyReference.cache
+D:\Projects\SQLProjects\Win\Stock_DB_Alert\Stock_DB_Alert\bin\Debug\SysPeformance.dll
+D:\Projects\SQLProjects\Win\Stock_DB_Alert\Stock_DB_Alert\bin\Debug\SysPeformance.pdb
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\bin\Debug\Stock_DB_Alert.exe.config
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.exe
+D:\Projects\SQLProjects\Win\SCANS\Stock_DB_Alert\obj\Debug\Stock_DB_Alert.pdb
